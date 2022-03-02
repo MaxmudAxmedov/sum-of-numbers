@@ -1,0 +1,26 @@
+.container{
+  width: 1200px;
+  margin: 0 auto;
+  padding: 0 20px;
+  position: relative;
+}
+p{
+  width: 60%;
+  font-size: 25px;
+  position: absolute;
+  top: 200px;
+  left: 0;
+  right: 0;
+  margin: 0 auto;
+}
+span{
+  display: block;
+  width: 60%;
+  text-align: center;
+  font-size: 25px;
+  position: absolute;
+  top: 260px;
+  left: 0;
+  right: 0;
+  margin: 0 auto;
+}
